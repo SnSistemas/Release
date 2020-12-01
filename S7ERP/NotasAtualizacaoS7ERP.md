@@ -9,12 +9,22 @@
  * **Rotina 615**: Adicionado tratamento para que usuário só consiga fazer sangria de um caixa banco onde o mesmo teve movimentação do dia considerando: Usuário, Data e Caixa Banco.
  * **Rotina 506**: Criado na aba “Checkout” o novo parâmetro “Permite Acesso ao Checkout?”. Parâmetro tem como finalidade permitir o usuário a ter acesso ao Frente de Caixa (PDV)
  * **Rotina 103**: Adicionado vídeo da rotina 103
-
+ * **Rotina 113**: Adicionado vídeo da rotina 113
+ * **Rotina 107**: Adicionado vídeo da rotina 107
+ * **Rotina 109**: Adicionado vídeo da rotina 109
+ * **Rotina 701**: Adicionado numerações de página nos relatórios do "Fechamento de Caixa"
+ * **Rotina 608**: Adicionado nova coluna ***CAIXA/BANCO*** no relatório XLS da aba "Relação de Títulos"
+ * **Rotina 602**: Adicionado nova coluna ***CAIXA/BANCO*** no relatório XLS da aba "Relação de Títulos"
+  
  #### Correção
  
  * **Rotina 113**: Implementada validação que não permite o usuário desmarcar opção "Usa Lote", se o produto selecionado estiver com quantidade diferente de ZERO.
  * **Rotina 301**: Implementada correção do percentual de desconto ao utilizar ***Negociação por Cliente***
  * **Rotina 308**: Tratar o travamento do campo de busca do vendedor, quando se utiliza o parâmetro "Vendedor é usuário logado?", o mesmo não estava respeitando quando o usuário limpava as informações do filtro.
  * **Rotina 201**: Implementada correção ao importar XML, o sistema não estava tratando a nova técnica ***2019.001 Versão 1.20***
+ * **Rotina 1008**: Implementada correção ao gerar dados "Estoque Fiscal"
+ * **Rotina 608**: Implementada correção ao gerar dados "Contas a Receber Por Cliente" quando se utilizada o filtro vendedor
+  
+ 
  
 
