@@ -6,11 +6,12 @@
 
  * **Rotina 609**: Criado novo campo "Vl. Tot. Títulos" na Dialog do detalhamento do Desdobramento, que se encontra na aba "Destino" 
  * **Rotina 201**: Implementada usabilidade onde somente deve aparecer os CST IPI, CST PIS, e CST COFINS de Entrada.
- * **Rotina 113**: Implementada validação que não permite o usuário desmarcar opção "Usa Lote", se o produto selecionado estiver com quantidade diferente de ZERO.
+ * **Rotina 615**: Adicionado tratamento para que usuário só consiga fazer sangria de um caixa banco onde o mesmo teve movimentação do dia considerando: Usuário, Data e Caixa Banco.
+  * **Rotina 506**: Implementada usabilidade onde somente deve aparecer os CST IPI, CST PIS, e CST COFINS de Entrada.
 
  #### Correção
  
- * Improvement: Improve some English strings (Issue #149, PR #571 and #576 by @jsoberg)
+ * **Rotina 113**: Implementada validação que não permite o usuário desmarcar opção "Usa Lote", se o produto selecionado estiver com quantidade diferente de ZERO.
  * Improvement: Don't automatically backup when updating last used or when moving cards
  * Improvement: Enable the "append date to backups" option by default
  * Improvement: Strip issuer from the label when adding via URL/QR code (Issue #551, PR #560 by @shivasheeshyadav)
