@@ -1,6 +1,8 @@
 # Notas de Atualização - S7ERP
 Todas as mudanças notáveis ​​neste projeto serão documentadas neste arquivo.
 
+### [02.21C (2021-02-11)](https://github.com/SnSistemas/Release/blob/main/S7ERP/02.21C.md)
+### [02.21B (2021-02-05)](https://github.com/SnSistemas/Release/blob/main/S7ERP/02.21B.md)
 ### [02.21A (2021-02-04)](https://github.com/SnSistemas/Release/blob/main/S7ERP/02.21A.md)
 ### [01.21J (2021-01-29)](https://github.com/SnSistemas/Release/blob/main/S7ERP/01.21J.md)
 ### [01.21I (2021-01-28)](https://github.com/SnSistemas/Release/blob/main/S7ERP/01.21I.md)
